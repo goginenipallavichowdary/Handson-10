@@ -170,7 +170,7 @@ print("Inorder Traversal After Deleting 5:", inorder_after_delete_5)
 print("Inorder Traversal After Deleting 15:", inorder_after_delete_15)
 print("Inorder Traversal After Deleting 40:", inorder_after_delete_40)
 
-# Expected Output:
+# Output:
 # Inorder Traversal Before Deletion: [5, 15, 25, 30, 35, 40, 50, 60, 70]
 # Search for 30: True
 # Search for 100: False
